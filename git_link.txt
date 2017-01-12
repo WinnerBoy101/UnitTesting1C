@@ -1,0 +1,17 @@
+https://github.com/WinnerBoy101/UnitTesting1C.git
+
+
+https://github.com/alehinsasha/text-patterns-1C.git
+
+
+https://github.com/pumbaEO/precommit1c.git
+
+https://github.com/silverbulleters/vanessa-behavior.git
+https://github.com/silverbulleters/vanessa-bdd-editor.git
+https://github.com/xDrivenDevelopment/v8Reader.git
+
+
+https://github.com/silverbulleters/vanessa-runner.git
+
+
+
